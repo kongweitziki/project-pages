@@ -20,20 +20,20 @@
 - name: Sharuti Das
   role: Undergraduate Researcher at University of Maryland
   img: https://media.licdn.com/dms/image/C4D03AQHnw1ZRvkj9UQ/profile-displayphoto-shrink_800_800/0?e=1534377600&v=beta&t=opY5mZBOF5XmRWiO_yqn6n4T6Z8_VyhCkoFTFIqP8L8
-  bio: wait...
+  bio: wait
   url: https://www.linkedin.com/in/shruti--das/
   visible: true
   
-  - name: Hairong Wang
-  role: Graduate student at ECE department
-  img: https://media.licdn.com/dms/image/C5603AQFZMjHxK-nRnA/profile-displayphoto-shrink_800_800/0?e=1534377600&v=beta&t=TLf0b4hgZ79EPZVQgdYVuMYlaqJyEkDJ6XFvOUQPOvc
-  bio: wait...
-  url: https://www.linkedin.com/in/hairong-wang-186261ba/
-  visible: true
+- name: Hairong Wang
+role: Graduate student at ECE department
+img: https://media.licdn.com/dms/image/C5603AQFZMjHxK-nRnA/profile-displayphoto-shrink_800_800/0?e=1534377600&v=beta&t=TLf0b4hgZ79EPZVQgdYVuMYlaqJyEkDJ6XFvOUQPOvc
+bio: wait...
+url: https://www.linkedin.com/in/hairong-wang-186261ba/
+visible: true
 
-  - name: Pranathy Veldandi
-  role: Graduate student at ECE department
-  img: https://plus.google.com/u/0/photos/116811649533516808234/albums/profile/6475886959406815634?iso=false
-  bio: wait...
-  url: https://www.cs.rutgers.edu/part-time-lecturers/pranathy-veldandi-7
-  visible: true
+- name: Pranathy Veldandi
+role: Graduate student at ECE department
+img: https://plus.google.com/u/0/photos/116811649533516808234/albums/profile/6475886959406815634?iso=false
+bio: wait...
+url: https://www.cs.rutgers.edu/part-time-lecturers/pranathy-veldandi-7
+visible: true
