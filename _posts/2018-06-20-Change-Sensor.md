@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Start
+title:      New sensor!
 author:     Weizhong Kong
 tags: 		sensor IoT CC2541
 subtitle:   Replace sensor tag due to hardware problem.
